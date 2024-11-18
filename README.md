@@ -67,4 +67,8 @@ Figure -02 HALF Subtractor
 
 ## Output/TIMING Waveform
 
+
 ## Result:
+Thus the Full adder and Full subtractor circuits are designed and the truth tables are verified using quartus software.
+
+
