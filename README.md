@@ -1,6 +1,6 @@
 ### NAME: HARIPRIYA M
 ### REG NO: 24002362
-# EXPERIMENT N0: Implementation of Half Adder and Half Subtractor circuit
+# EXPERIMENT 3: Implementation of Half Adder and Half Subtractor circuit
 
 
 ## AIM:
@@ -66,6 +66,10 @@ Figure -02 HALF Subtractor
 
 
 ## Output/TIMING Waveform
+#### HALF ADDER:
+
+### HALF SUBTRACTOR:
+
 
 
 ## Result:
