@@ -67,8 +67,12 @@ Figure -02 HALF Subtractor
 
 ## Output/TIMING Waveform
 #### HALF ADDER:
+![Screenshot 2024-11-18 100355](https://github.com/user-attachments/assets/cdeabeae-421c-4ca7-ae22-ff9729a76383)
 
-### HALF SUBTRACTOR:
+
+#### HALF SUBTRACTOR:
+![Screenshot 2024-11-18 100754](https://github.com/user-attachments/assets/020851e1-7702-40e4-ba95-32a4b41cc8cc)
+
 
 
 
