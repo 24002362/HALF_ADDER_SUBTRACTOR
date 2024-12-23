@@ -1,5 +1,6 @@
 ### NAME: HARIPRIYA M
 ### REG NO: 24002362
+### DATE: 17.10.2024
 # EXPERIMENT 3: Implementation of Half Adder and Half Subtractor circuit
 
 
@@ -77,6 +78,6 @@ Figure -02 HALF Subtractor
 
 
 ## Result:
-Thus the Full adder and Full subtractor circuits are designed and the truth tables are verified using quartus software.
+Thus the Half adder and Half subtractor circuits are designed and the truth tables are verified using quartus software.
 
 
